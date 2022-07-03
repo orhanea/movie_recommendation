@@ -1,5 +1,5 @@
 # movie_recommendation
-**FENG 498 Project** <br/>
+**FENG 498 Project @IEU** <br/>
 ------------------
 <ins>Group Members :<ins>
 
